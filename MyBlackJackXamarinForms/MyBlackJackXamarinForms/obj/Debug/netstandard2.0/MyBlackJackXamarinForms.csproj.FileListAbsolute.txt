@@ -1,0 +1,65 @@
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/MyBlackJackXamarinForms.deps.json
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/MyBlackJackXamarinForms.dll
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/ref/MyBlackJackXamarinForms.dll
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/MyBlackJackXamarinForms.pdb
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/Mono.Android.dll
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/Mono.Android.pdb
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/Mono.Android.xml
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/Game.xaml.g.cs
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/HomePage.xaml.g.cs
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/MenuPage.xaml.g.cs
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/Rules.xaml.g.cs
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/SignUpPage.xaml.g.cs
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.csproj.CoreCompileInputs.cache
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.AssemblyInfoInputs.cache
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.AssemblyInfo.cs
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/XamlC.stamp
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.csproj.CopyComplete
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.dll
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ref/MyBlackJackXamarinForms.dll
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.pdb
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.csprojAssemblyReference.cache
+C:/projets personel/mobile c#/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/Stat.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.csprojAssemblyReference.cache
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/Game.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/HomePage.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/MenuPage.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/Rules.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/SignUpPage.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ContentPage/Stat.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.csproj.CoreCompileInputs.cache
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.AssemblyInfoInputs.cache
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.AssemblyInfo.cs
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.dll
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/ref/MyBlackJackXamarinForms.dll
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/MyBlackJackXamarinForms.pdb
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/MyBlackJackXamarinForms.deps.json
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/MyBlackJackXamarinForms.dll
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/ref/MyBlackJackXamarinForms.dll
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/bin/Debug/netstandard2.0/MyBlackJackXamarinForms.pdb
+/Users/mathieu/Documents/mobilec/MyBlackJackXamarinForms/MyBlackJackXamarinForms/obj/Debug/netstandard2.0/XamlC.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\MyBlackJackXamarinForms.csprojAssemblyReference.cache
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\ContentPage\Game.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\ContentPage\GetMoney.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\ContentPage\HomePage.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\ContentPage\MenuPage.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\ContentPage\Rules.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\ContentPage\SignUpPage.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\ContentPage\Stat.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\MyBlackJackXamarinForms.csproj.CoreCompileInputs.cache
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\MyBlackJackXamarinForms.AssemblyInfoInputs.cache
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\MyBlackJackXamarinForms.AssemblyInfo.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\bin\Debug\netstandard2.0\MyBlackJackXamarinForms.deps.json
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\bin\Debug\netstandard2.0\MyBlackJackXamarinForms.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\bin\Debug\netstandard2.0\ref\MyBlackJackXamarinForms.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\bin\Debug\netstandard2.0\MyBlackJackXamarinForms.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\MyBlackJackXamarinForms.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\ref\MyBlackJackXamarinForms.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms\obj\Debug\netstandard2.0\MyBlackJackXamarinForms.pdb

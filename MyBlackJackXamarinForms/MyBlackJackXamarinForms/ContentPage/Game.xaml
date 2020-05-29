@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyBlackJackXamarinForms.Game"
+             BackgroundImageSource="Green.png"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <Grid RowSpacing="1" ColumnSpacing="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <ScrollView Orientation="Horizontal" Grid.Row="0" Grid.ColumnSpan="6">
+                <StackLayout x:Name="BanqueHand" Orientation="Horizontal">
+
+                </StackLayout>
+            </ScrollView>
+
+            <Frame Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2" BackgroundColor="Black" CornerRadius="40">
+                <StackLayout Orientation="Horizontal">
+                    <Label HorizontalOptions="Center" VerticalOptions="Start" 
+                       Text="Score : " FontSize="Micro" TextColor="White" FontAttributes="Bold"/>
+                    <Label x:Name="lblBanqueScrore" HorizontalOptions="Center" VerticalOptions="Start" 
+                            FontSize="Micro" TextColor="White" FontAttributes="Bold"/>
+                </StackLayout>
+            </Frame>
+
+            <Frame Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2" BackgroundColor="Black" CornerRadius="40"
+                   x:Name="frmBet">
+                <Label x:Name="lblBet" HorizontalOptions="Center" VerticalOptions="Center" 
+                       Text="Mise : " FontSize="Micro" TextColor="White" FontAttributes="Bold"/>
+            </Frame>
+
+            <Entry Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="2"
+                    x:Name="EntryBet" HorizontalOptions="Center" VerticalOptions="Center"
+                           FontSize="Large" PlaceholderColor="White"
+                           Keyboard="Numeric" TextColor="White" Completed="EntryBet_Completed"/>
+            
+            <Button x:Name="btnRest" Grid.Row="5" Grid.Column="5" Grid.ColumnSpan="1" Text="Rester"
+                    Clicked="BtnRest_Clicked" CornerRadius="50" FontSize="Micro" FontAttributes="Bold"/>
+            <Button x:Name="btnPick" Grid.Row="6" Grid.Column="5" Grid.ColumnSpan="1" Text="Tirer"
+                    Clicked="BtnPick_Clicked" CornerRadius="50" FontSize="Micro" FontAttributes="Bold"/>
+
+            <Frame Grid.Row="9" Grid.Column="2" Grid.ColumnSpan="2" BackgroundColor="Black" CornerRadius="40">
+                <StackLayout>
+                    <Label  HorizontalOptions="Center" VerticalOptions="Start" 
+                       Text="Score : " FontSize="Micro" TextColor="White" FontAttributes="Bold"/>
+                    <Label x:Name="lblPlayeurScrore" HorizontalOptions="Center" VerticalOptions="End" 
+                            FontSize="Micro" TextColor="White" FontAttributes="Bold"/>
+                </StackLayout>
+            </Frame>
+
+            <ScrollView Orientation="Horizontal" Grid.Row="10" Grid.ColumnSpan="6">
+                <StackLayout x:Name="PlayerHand" Orientation="Horizontal">
+
+                </StackLayout>
+            </ScrollView>
+
+            <Button x:Name="btnExit" Grid.Row="11" Grid.Column="1" Grid.ColumnSpan="1" Text="quitter"
+                    Clicked="BtnExit_Clicked" CornerRadius="50" FontSize="Micro" FontAttributes="Bold"/>
+
+            <StackLayout Orientation="Vertical" Grid.Row="11" Grid.Column="4">
+                <Label Grid.Row="11" Grid.Column="4" Grid.ColumnSpan="1" 
+                       HorizontalOptions="Center" VerticalOptions="Center" Text="Argent : " 
+                       TextColor="White" FontAttributes="Bold"/>
+                <Label x:Name="lblBalance" Grid.Row="11" Grid.Column="4" Grid.ColumnSpan="1" 
+                       HorizontalOptions="Center" VerticalOptions="Center" TextColor="White"
+                       FontAttributes="Bold"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,1122 @@
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.Android.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\com.companyname.MyBlackJackXamarinForms.apk
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\com.companyname.MyBlackJackXamarinForms-Signed.apk
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\FormsViewGroup.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\Mono.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\mscorlib.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Core.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Numerics.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Numerics.Vectors.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Xml.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Xml.Linq.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Net.Http.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Data.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Transactions.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.IO.Compression.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\System.Web.Services.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\Mono.Security.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.dll.mdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\Xamarin.Essentials.dll.mdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\build.props
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\adb.props
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.csprojAssemblyReference.cache
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\libraryimports.cache.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\resourcepaths.cache
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res.flag
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.csproj.CoreCompileInputs.cache
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\XamlC.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.csproj.CopyComplete
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\bin\com.companyname.MyBlackJackXamarinForms.apk
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\values\styles.xml
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\values\colors.xml
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\homepage.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\appicon.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\signup.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\dealeur.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\backgroundrules.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\insidecasino.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\rules.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\cartevalue.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\possibleaction.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\green.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ac.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ad.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ah.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\as.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\backcard.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\jc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\jd.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\jh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\js.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\kc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\kd.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\kh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ks.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\qc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\qd.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\qh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\qs.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fived.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fiveh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fives.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fourc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fourd.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fourh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fours.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ninec.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\nined.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\nineh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\nines.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sevenc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sevend.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sevenh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sevens.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sixc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sixd.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sixh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sixs.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\tenc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\tend.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\tenh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\tens.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\threec.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\threed.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\threeh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\threes.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\twoc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\twod.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\twoh.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\twos.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\eightc.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\eightd.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\eighth.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\eights.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fivec.png
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\R.cs.flag
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\R.txt
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\uploadflags.txt
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\resolvedassemblies.hash
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\MyBlackJackXamarinForms.Android.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\FormsViewGroup.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Java.Interop.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Mono.Android.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\mscorlib.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\MyBlackJackXamarinForms.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Core.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Numerics.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Xml.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v4.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.Palette.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\netstandard.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Data.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Transactions.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Web.Services.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Mono.Security.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\MyBlackJackXamarinForms.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\mscorlib.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Core.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Numerics.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Numerics.Vectors.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Xml.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Xml.Linq.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Net.Http.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Data.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Transactions.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.IO.Compression.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Web.Services.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Mono.Security.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\MyBlackJackXamarinForms.dll.mdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll.mdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\link.flag
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\MyBlackJackXamarinForms.Android.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\MyBlackJackXamarinForms.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\MyBlackJackXamarinForms.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\MyBlackJackXamarinForms.dll.mdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.Palette.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll.mdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\Seppuku.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\app\NotifyTimeZoneChanges.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\machine.config
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\static.flag
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\buildid.txt
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\media\RemotePlaybackClient_OnMessageReceivedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\graphics\Palette_PaletteAsyncListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md535b8a82dc027db4b6ad9d81604b05047\MainActivity.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter_EmptyViewHolder.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutContentRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\mediarouter\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\app\XamarinAndroidEnvironmentVariables.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\MonoPackageManager.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\bin\packaged_resources
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\com\companyname\myblackjackxamarinforms\R.java
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\bin\classes.dex
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\projets personel\mobile c#\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\statbackground.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\build.props
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\adb.props
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.csprojAssemblyReference.cache
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.Android.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.Android.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\com.companyname.MyBlackJackXamarinForms.apk
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\com.companyname.MyBlackJackXamarinForms-Signed.apk
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\resourcepaths.cache
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res.flag
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\R.cs.flag
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.csproj.CoreCompileInputs.cache
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\XamlC.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.csproj.CopyComplete
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\MyBlackJackXamarinForms.Android.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\bin\com.companyname.MyBlackJackXamarinForms.apk
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\layout\tabbar.xml
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\layout\toolbar.xml
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\values\styles.xml
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\values\colors.xml
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\homepage.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\appicon.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\signup.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\dealeur.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\backgroundrules.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\insidecasino.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\rules.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\cartevalue.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\possibleaction.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\green.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ac.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ad.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ah.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\as.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\backcard.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\jc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\jd.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\jh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\js.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\kc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\kd.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\kh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ks.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\qc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\qd.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\qh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\qs.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fived.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fiveh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fives.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fourc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fourd.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fourh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fours.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\ninec.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\nined.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\nineh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\nines.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sevenc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sevend.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sevenh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sevens.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sixc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sixd.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sixh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\sixs.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\tenc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\tend.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\tenh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\tens.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\threec.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\threed.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\threeh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\threes.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\twoc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\twod.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\twoh.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\twos.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\eightc.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\eightd.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\eighth.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\eights.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\fivec.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\statbackground.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\res\drawable\getmoneybackground.png
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\R.txt
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\uploadflags.txt
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\resolvedassemblies.hash
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\MyBlackJackXamarinForms.Android.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\FormsViewGroup.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Java.Interop.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Mono.Android.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\mscorlib.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\MyBlackJackXamarinForms.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Plugin.Toast.Abstractions.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Plugin.Toast.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Core.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Numerics.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Runtime.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Xml.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Xml.Linq.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v4.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.Palette.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Net.Http.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Drawing.Common.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\netstandard.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Data.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Transactions.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.IO.Compression.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\System.Web.Services.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Mono.Security.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\MyBlackJackXamarinForms.Android.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Mono.Android.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Plugin.Toast.Abstractions.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\MyBlackJackXamarinForms.dll.mdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Plugin.Toast.dll.mdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll.mdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\link.flag
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Java.Interop.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Mono.Android.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Mono.Security.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\mscorlib.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\MyBlackJackXamarinForms.Android.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\MyBlackJackXamarinForms.Android.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\MyBlackJackXamarinForms.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\MyBlackJackXamarinForms.dll.mdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\netstandard.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Plugin.Toast.Abstractions.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Plugin.Toast.Abstractions.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Plugin.Toast.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Plugin.Toast.dll.mdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Core.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Data.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Numerics.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Runtime.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Transactions.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Xml.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.Palette.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll.mdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\assets\machine.config
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\bin\mono.android.jar
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\static.flag
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\buildid.txt
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\media\RemotePlaybackClient_OnMessageReceivedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\graphics\Palette_PaletteAsyncListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\mediarouter\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\transition\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\design\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter_EmptyViewHolder.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutContentRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\android\support\compat\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\md535b8a82dc027db4b6ad9d81604b05047\MainActivity.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\bin\packaged_resources
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\src\com\companyname\myblackjackxamarinforms\R.java
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\android\bin\classes.dex
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\Documents\mobilec\MyBlackJackXamarinForms\MyBlackJackXamarinForms.Android\bin\Debug\MyBlackJackXamarinForms.dll.mdb

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyBlackJackXamarinForms.Rules"
+             BackgroundImageSource="BackGroundRules.png"
+             Title="RETOUR AU MENU">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="RÈGLES DE JEUX - BLACK JACK" HorizontalOptions="Center" Margin="10"
+                       FontAttributes="Bold" FontSize="Large" TextColor="White"/>
+                
+                <Image Source="InsideCasino.png" HorizontalOptions="Center"/>
+                
+                <Label Text="Le black Jack se joue avec 6 jeux de 52 cartes contenues dans un sabot. Le ou les joueurs jouent contre le Donneur (c'est à dire la banque ou le casino). Il y a 7 cases sur le tapis et plusieurs personnes peuvent jouer sur la même case, mais c'est le Joueur assis (le premier qui mise) qui prend les décisions."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="L'objectif du Joueur est de tirer des cartes jusqu'à ce que son jeu atteigne 21 points (addition de la valeur des cartes) ou s'en rapproche le plus possible, sans toutefois dépasser 21 sous peine de perdre sa mise. Si par rapport au Donneur, il se rapproche le plus de 21 sans dépasser ce chiffre, il l'emporte." 
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="DÉROULEMENT DE LA PARTIE" FontSize="Large" HorizontalOptions="Center" TextColor="White"/>
+                
+                <Image Source="Rules.png" HorizontalOptions="Center" Margin="30"/>
+
+                <Label Text="La distribution des cartes commence après que les joueurs aient misé : il suffit de placer sa mise dans l'espace réservé sur la table de jeu, situé juste devant chaque joueur."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le Donneur distribue ensuite deux cartes à chacun des joueurs, et à lui-même (seule la deuxième carte du donneur est fasse visible)."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le Joueur (après analyse de son jeu et de la carte du Donneur) peut alors dire « reste » s'il est satisfait de son jeu, il peut aussi demander une carte de plus en disant « carte » pour atteindre ou se rapprocher de 21 points. S'il dépasse 21 points il est « mort » et perds sa mise immédiatement."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le Joueur peut continuer à demander des cartes tant qu'il souhaite améliorer son score. Une fois tous les joueurs servis, le Donneur retourne ça carte fasse cachée et se sert à son tour, jusqu'à ce qu'il atteigne ou dépasse 17 points, puis il « reste »."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le Donneur compare alors son jeu avec les jeux des joueurs, pour déterminer qui gagne."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="VALEUR DES CARTES"
+                       Margin="10" TextColor="White" FontSize="Large" HorizontalOptions="Center"/>
+
+                <Image Source="CarteValue.png" HorizontalOptions="Center" Margin="30"/>
+
+                <Label Text="Les figures (Valets, Reines, Rois) valent 10, l'As vaut 1 ou 11 (au choix, selon ce qui est plus avantageux pour le Joueur) et les autres cartes prennent leur valeur faciale."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="« Black Jack » est le meilleur jeu possible avec les deux premières cartes totalisant 21, (un As et un 10 ou une figure). Scores finaux, gains."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le joueur fait black jack : il récupère sa mise + gagne 1,5 fois sa mise."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le joueur est plus près de 21 que le donneur : il récupère sa mise + gagne 1 fois sa mise."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le donneur dépasse 21 : le Joueur récupère sa mise + gagne 1 fois sa mise."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Égalité de points : le Joueur récupère sa mise (même Black Jack)"
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le joueur dépasse 21 : le Joueur perd sa mise"
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="Le donneur est plus près de 21 que le joueur : le Joueur perd sa mise"
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="ACTIONS POSSIBLES AU BLACK JACK"
+                       Margin="10" TextColor="White" FontSize="Large" HorizontalOptions="Start"/>
+
+                <Image Source="PossibleAction.png" HorizontalOptions="Center" Margin="30"/>
+
+                <Label Text="RESTER :"
+                       Margin="10" TextColor="White" FontSize="Large" HorizontalOptions="Start"/>
+
+                <Label Text="Rester signifie ne plus prendre de cartes supplémentaires (le joueur indique qu'il reste en plaçant un coin de ses cartes sous sa mise ou encore en faisant un geste horizontal de la main sur la table de jeu)."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+
+                <Label Text="TIRER :"
+                       Margin="10" TextColor="White" FontSize="Medium" HorizontalOptions="Start"/>
+
+                <Label Text="Tirer signifie prendre une autre carte."
+                       Margin="10" TextColor="White" FontSize="Medium"/>
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyBlackJackXamarinForms.HomePage"
+             BackgroundImageSource="HomePage.png"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="WELCOME TO THE TABLE"
+                    VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" 
+                    FontSize="20" TextColor="YellowGreen" Margin="40"/>
+            
+            <Button x:Name="BtnGest" Text="ESSAYER SANS CONNECTION" BackgroundColor="Red" TextColor="YellowGreen"
+                    HorizontalOptions="CenterAndExpand" CornerRadius="40" Clicked="BtnGest_Clicked"
+                    Margin="10"/>
+            
+            <Button x:Name="BtnLogin" Text="SE CONNECTER" BackgroundColor="LawnGreen" TextColor="Yellow"
+                    HorizontalOptions="CenterAndExpand" CornerRadius="40" Clicked="BtnLogin_Clicked"/>
+            
+            <Button x:Name="btnSignUp" Text="CREER UN COMPTE" BackgroundColor="Black" TextColor="White"
+                    HorizontalOptions="CenterAndExpand" BorderRadius="40"
+                    Margin="10" Clicked="BtnSignUp_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

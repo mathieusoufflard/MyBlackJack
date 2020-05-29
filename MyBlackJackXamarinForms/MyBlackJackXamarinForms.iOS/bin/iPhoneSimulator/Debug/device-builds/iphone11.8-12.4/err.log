@@ -1,0 +1,8 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2019-08-12 15:35:49.709242+0200 MyBlackJackXamarinForms.iOS[1581:56119] Xamarin.iOS: Socket error while connecting to IDE on 127.0.0.1:10000: Connection refused
+2019-08-12 15:35:50.214670+0200 MyBlackJackXamarinForms.iOS[1581:56091] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1581
+2019-08-12 15:35:50.214964+0200 MyBlackJackXamarinForms.iOS[1581:56091] SecTaskCopyDebugDescription: MyBlackJackXamar[1581]/0#-1 LF=0
+2019-08-12 15:36:12.531807+0200 MyBlackJackXamarinForms.iOS[1581:56091] Can't find keyplane that supports type 8 for keyboard iPhone-PortraitTruffle-DecimalPad; using 20656_PortraitTruffle_iPhone-Simple-Pad_Default
+2019-08-12 15:36:12.870823+0200 MyBlackJackXamarinForms.iOS[1581:56091] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1581
+2019-08-12 15:36:12.871180+0200 MyBlackJackXamarinForms.iOS[1581:56091] SecTaskCopyDebugDescription: MyBlackJackXamar[1581]/0#-1 LF=0
+2019-08-12 15:36:36.665875+0200 MyBlackJackXamarinForms.iOS[1581:56091] Can't find keyplane that supports type 8 for keyboard iPhone-PortraitTruffle-DecimalPad; using 20656_PortraitTruffle_iPhone-Simple-Pad_Default

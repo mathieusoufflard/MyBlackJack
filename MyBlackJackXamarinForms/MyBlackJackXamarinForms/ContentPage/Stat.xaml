@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyBlackJackXamarinForms.Stat"
+             Title="MENU"
+             BackgroundImageSource="StatBackground.png">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Nom" TextColor="White" FontSize="Medium" 
+                   HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="0" />
+            <Label  x:Name="LblName" TextColor="White" FontSize="Medium"
+                HorizontalTextAlignment="End" Grid.Row="0" Grid.Column="1" />
+
+            <Label Text="Solde" TextColor="White" FontSize="Medium" 
+                   HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="0" />
+            <Label x:Name="LblBalance" TextColor="White" FontSize="Medium" 
+                   HorizontalTextAlignment="End" Grid.Row="1" Grid.Column="1" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
