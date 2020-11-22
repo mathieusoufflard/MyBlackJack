@@ -2052,11 +2052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.Android\\MyBlackJackXamarinForms.Android.csproj",
+      "projectUniqueName": "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.Android\\MyBlackJackXamarinForms.Android.csproj",
       "projectName": "MyBlackJackXamarinForms.Android",
-      "projectPath": "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.Android\\MyBlackJackXamarinForms.Android.csproj",
+      "projectPath": "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.Android\\MyBlackJackXamarinForms.Android.csproj",
       "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
-      "outputPath": "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.Android\\obj\\",
+      "outputPath": "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2077,8 +2077,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.csproj": {
-              "projectPath": "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.csproj"
+            "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.csproj": {
+              "projectPath": "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.csproj"
             }
           }
         }

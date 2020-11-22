@@ -1093,11 +1093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.iOS\\MyBlackJackXamarinForms.iOS.csproj",
+      "projectUniqueName": "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.iOS\\MyBlackJackXamarinForms.iOS.csproj",
       "projectName": "MyBlackJackXamarinForms.iOS",
-      "projectPath": "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.iOS\\MyBlackJackXamarinForms.iOS.csproj",
+      "projectPath": "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.iOS\\MyBlackJackXamarinForms.iOS.csproj",
       "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
-      "outputPath": "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.iOS\\obj\\",
+      "outputPath": "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1118,8 +1118,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.csproj": {
-              "projectPath": "E:\\document\\DevMobile\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.csproj"
+            "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.csproj": {
+              "projectPath": "F:\\Document\\MyBlackJack\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms\\MyBlackJackXamarinForms.csproj"
             }
           }
         }
